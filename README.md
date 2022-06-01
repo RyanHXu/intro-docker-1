@@ -14,3 +14,8 @@ open
 http://localhost:5001
 
 
+```shell
+docker exec -it [YourContainerID] /bin/sh
+```
+
+
